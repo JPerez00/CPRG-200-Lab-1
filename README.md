@@ -18,4 +18,4 @@ and $0.065 for each additional kWh.
 o Off-peak hours: Flat rate of $40.00 for the first 1000 kWh used (or part of, even when
 zero), and $0.028 for each additional kWh.
 
-![Screenshot](capture.jpg)
+![Screenshot](Capture.jpg)
